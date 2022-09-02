@@ -7,19 +7,19 @@ name_pronunciation: Dawei Zhang
 superuser: true
 
 # Role/position
-role: ''
+role: 'Lecturer'
 
 # Status emoji
 status:
-  icon: â˜•ï¸
+  icon: â˜•ï¸�?
 
 # Organizations/Affiliations
-#organizations:
-#- name: è…¾è®¯
+#organizations: Monash University
+#- name: è…¾è®�?
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 'I am interested in improving cognitive abilities in children with/without neurodevelopmental disorders for educational or therapeutic purposes, using technology-based interventions such as computerized executive function games, EEG neurofeedback, and non-invasive brain stimulation. This interest further stimulates my secondary research line - characterizing brain and cognitive development, which could provide useful information when designing interventions.'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -34,7 +34,7 @@ social:
     link: https://twitter.com/Dawei76
   - icon: orcid
     icon_pack: fab
-    link: https://www.linkedin.com/in/dawei-zhang-张大为-31822468/
+    link: https://www.linkedin.com/in/dawei-zhang-张大�?31822468/
   - icon: google
     icon_pack: fab
     link: https://scholar.google.se/citations?user=oG8EisEAAAAJ&hl=en
