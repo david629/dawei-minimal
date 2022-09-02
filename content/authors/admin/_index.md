@@ -1,6 +1,6 @@
 ---
 # Display name
-title: å³æ©é?
+title: Ã¥ÂÂ³Ã¦ÂÂ©Ã©Â?
 name_pronunciation: Dawei Zhang
 
 # Is this the primary user of the site?
@@ -11,11 +11,11 @@ role: 'Lecturer'
 
 # Status emoji
 status:
-  icon: â˜•ï¸�?
+  icon: Ã¢Ëœâ€¢Ã¯Â¸Â?
 
 # Organizations/Affiliations
 #organizations: Monash University
-#- name: è…¾è®�?
+#- name: Ã¨â€¦Â¾Ã¨Â®Â?
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,7 +34,7 @@ social:
     link: https://twitter.com/Dawei76
   - icon: orcid
     icon_pack: fab
-    link: https://www.linkedin.com/in/dawei-zhang-张大�?31822468/
+    link: https://www.linkedin.com/in/dawei-zhang-%E5%BC%A0%E5%A4%A7%E4%B8%BA-31822468/
   - icon: google
     icon_pack: fab
     link: https://scholar.google.se/citations?user=oG8EisEAAAAJ&hl=en
