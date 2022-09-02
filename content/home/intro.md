@@ -29,5 +29,5 @@ design:
   css_class: d-flex fullscreen align-items-center
 ---
 
-👋 Hi, there! I'm **Dawei Zhang**, a machine learning researcher at Netflix.
+Hello! I'm currently a lectuer at the Department of Psychology in the Monash University Malaysia .
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
