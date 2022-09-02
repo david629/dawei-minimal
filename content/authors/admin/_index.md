@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩�?
+title: å³æ©é?
 name_pronunciation: Dawei Zhang
 
 # Is this the primary user of the site?
@@ -11,11 +11,11 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: â˜•ï¸
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: è…¾è®¯
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,13 +28,13 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:dawei.zhang@monash.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Dawei76
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0002-6862-5627
+    link: https://www.linkedin.com/in/dawei-zhang-张大为-31822468/
   - icon: google
     icon_pack: fab
     link: https://scholar.google.se/citations?user=oG8EisEAAAAJ&hl=en
